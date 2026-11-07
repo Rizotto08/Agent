@@ -14,3 +14,7 @@ wsl -d Ubuntu -u root -e bash -lc "cd /root/src/dsh-superagent && ./scripts/dsh-
 ```
 
 Панель управления: http://127.0.0.1:3082 (URL с токеном печатается в лог при старте).
+
+## Статус
+
+Агент dsh-superagent установлен и работает.
